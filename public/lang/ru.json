@@ -2,7 +2,7 @@
     "header": {
         "about_aria-label": "Открыть страницу \"О сервисе\"",
         "pair-device_title": "Связать ваши устройства навсегда",
-        "install_title": "Установить FileDrop",
+        "install_title": "Установить Broslunas Filedrop",
         "cancel-share-mode": "Выполнено",
         "edit-paired-devices_title": "Редактировать связанные устройства",
         "notification_title": "Включить уведомления",
@@ -22,10 +22,10 @@
         "x-instructions-share-mode_mobile": "Прикоснитесь, чтобы отправить {{descriptor}}",
         "x-instructions_data-drop-peer": "Отпустите, чтобы послать узлу",
         "x-instructions_mobile": "Прикоснитесь коротко, чтобы отправить файлы, или долго, чтобы отправить сообщение",
-        "no-peers-title": "Откройте FileDrop на других устройствах, чтобы отправить файлы",
+        "no-peers-title": "Откройте Broslunas Filedrop на других устройствах, чтобы отправить файлы",
         "no-peers-subtitle": "Свяжите устройства или войдите в публичную комнату, чтобы вас могли обнаружить из других сетей",
         "activate-share-mode-and-other-files-plural": "и {{count}} других файлов",
-        "activate-share-mode-base": "Откройте FileDrop на других устройствах, чтобы отправить",
+        "activate-share-mode-base": "Откройте Broslunas Filedrop на других устройствах, чтобы отправить",
         "activate-share-mode-shared-text": "общий текст"
     },
     "footer": {
@@ -102,8 +102,8 @@
         "claim": "Самый простой способ передачи файлов между устройствами",
         "close-about_aria-label": "Закрыть страницу \"О сервисе\"",
         "buy-me-a-coffee_title": "Купить мне кофе!",
-        "github_title": "FileDrop на GitHub",
-        "tweet_title": "Твит о FileDrop",
+        "github_title": "Broslunas Filedrop на GitHub",
+        "tweet_title": "Твит о Broslunas Filedrop",
         "faq_title": "Часто задаваемые вопросы"
     },
     "notifications": {
@@ -128,7 +128,7 @@
         "selected-peer-left": "Выбранный узел вышел",
         "request-title": "{{name}} хотел бы передать {{count}} {{descriptor}}",
         "rate-limit-join-key": "Достигнут предел скорости. Подождите 10 секунд и повторите попытку.",
-        "unfinished-transfers-warning": "Есть незавершенные передачи. Вы уверены, что хотите закрыть FileDrop?",
+        "unfinished-transfers-warning": "Есть незавершенные передачи. Вы уверены, что хотите закрыть Broslunas Filedrop?",
         "copied-text-error": "Запись в буфер обмена не удалась. Скопируйте вручную!",
         "pairing-cleared": "Все устройства отвязаны",
         "pairing-key-invalid": "Неверный ключ",
