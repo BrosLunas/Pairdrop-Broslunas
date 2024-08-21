@@ -738,8 +738,8 @@ class Dialog {
             document.activeElement.blur();
             window.blur();
         }
-        document.title = 'FileDrop | Transfer Files Cross-Platform. No Setup, No Signup.';
-        changeFavicon("images/favicon-96x96.png");
+        document.title = 'FileDrop | Transferencia de archivos entre plataformas. Sin configuración ni registro.';
+        changeFavicon("images/favicon.png");
         this.correspondingPeerId = undefined;
     }
 
