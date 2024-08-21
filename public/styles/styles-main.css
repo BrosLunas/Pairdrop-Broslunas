@@ -927,7 +927,7 @@ x-peers:empty~x-instructions {
 /* Default colors */
 body {
     /* Constant colors */
-    --primary-color: #de7cd4;
+    --primary-color: #1567ba;
     --paired-device-color: #ffffff;
     --public-room-color: #8ff2ff;
     --accent-color: var(--primary-color);
