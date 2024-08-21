@@ -9,7 +9,7 @@ string_mask        = utf8only
 prompt             = no
 
 [ subject ]
-organizationName = PairDrop
+organizationName = FileDrop
 OU               = CA
 commonName       = pairdrop-CA
 

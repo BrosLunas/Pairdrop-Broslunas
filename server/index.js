@@ -151,7 +151,7 @@ if (conf.debugMode) {
     console.debug("\n");
 }
 
-// Start a new PairDrop instance when an uncaught exception occurs
+// Start a new FileDrop instance when an uncaught exception occurs
 if (conf.autoStart) {
     process.on(
         'uncaughtException',
